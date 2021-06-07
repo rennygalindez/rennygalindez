@@ -3,4 +3,6 @@ Adoro la posibilidad de crear con React o Vue, Soy aventurero, autodidacta y so√
 He aprendido mucho con varios recursos como [freecodecamp](https://www.freecodecamp.org/) , [codewithMosh](https://codewithmosh.com/) y [Henry](https://www.soyhenry.com/) todos geniales, me ha permitido descubrir todo con lo que cuento para realizar proyectos emocinantes.
 
 Hoy descubriendo [react-query](react-query.tanstack.com) y [supabase](https://supabase.io/)
+
+
 rfgalindez@gmail.com
