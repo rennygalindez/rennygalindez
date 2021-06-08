@@ -8,13 +8,13 @@ Adoro la posibilidad de crear con React o Vue, Soy aventurero, autodidacta y so�
 He aprendido mucho con varios recursos como [freecodecamp](https://www.freecodecamp.org/) , [codewithMosh](https://codewithmosh.com/) y [Henry](https://www.soyhenry.com/) todos geniales, me han permitido descubrir todo con lo que cuento para realizar proyectos emocionantes.
 </div>
 
-- 🔭 I’m currently working on [myhouseapp](https://my-house-app-one.vercel.app)
+- 🔭 Actualmente estoy trabajando en [myhouseapp](https://my-house-app-one.vercel.app)
 
-- 🌱 I’m currently learning **supabase react-query TypeScript**
+- 🌱 Actualmente estoy aprendiendo **supabase react-query TypeScript**
 
 - 💬 Ask me about **react vue**
 
-- 📫 How to reach me **rfgalindez@gmail.com**
+- 📫 **rfgalindez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
